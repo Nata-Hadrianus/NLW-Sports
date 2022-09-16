@@ -1,7 +1,7 @@
 
  # NLW SPORTS -
   
-  ![Legenda](_C__Users_HP_Documents_NLW_index.html.png)
+  ![Legenda](./_C__Users_HP_Documents_NLW_index.html.png)
 
   TRILHA EXPLORER
 
